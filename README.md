@@ -4,7 +4,7 @@ Este proyecto implementa un Algoritmo Genético (AG) para resolver el Problema d
 
 El código está escrito en Python, pensado para ser ejecutado en PyCharm, e incluye herramientas de visualización avanzadas para analizar el comportamiento del algoritmo.
 Características principales
-✔ Algoritmo Genético completo
+Algoritmo Genético completo
 Representación basada en permutaciones de ciudades
 
 Selección por torneo
@@ -24,23 +24,23 @@ Tasa de cruza
 Tasa de mutación
 
 Número de generaciones
-🔹 1. Gráfica de convergencia
+1. Gráfica de convergencia
 Muestra cómo disminuye la distancia mínima a lo largo de las generaciones.
 
-🔹 2. Visualización 2D de la ruta final
+2. Visualización 2D de la ruta final
 Puntos para cada ciudad
 
 Flechas indicando el orden de visita
 
 Distancia total mostrada en el título
 
-🔹 3. Animación del recorrido
+3. Animación del recorrido
 Una animación paso a paso mostrando cómo se recorre la ruta final.
 
-🔹 4. Comparación visual entre varias rutas
+4. Comparación visual entre varias rutas
 Permite comparar rutas obtenidas con diferentes parámetros del AG.
 
-🔹 5. Visualización 3D
+5. Visualización 3D
 Representa la ruta en un espacio tridimensional donde el eje Z indica el orden de visita.
 ¿Cómo funciona el algoritmo?
 Inicialización  
